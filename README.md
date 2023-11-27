@@ -94,7 +94,7 @@ sudo ds4drv
 
 3- press SHARE + PS4
 
-![Alt text](ps4.jpg "Optional title")
+![Alt text](https://www.howtoisolve.com/wp-content/uploads/2020/07/Press-Share-button-and-PS4-button-at-the-same-time.jpg "Optional title")
 
 4- run this code
 
