@@ -65,7 +65,7 @@ pause()
 
 4- open the application
 
-![Alt text](https://drive.google.com/drive/folders/10V0Jt6Y-q4zk1ezVAtAn5DEAdKGrxENK "Optional title")
+![Alt text](1.png "Optional title")
 
 5- press on connect button
 
