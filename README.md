@@ -166,7 +166,7 @@ run Control_By_ArucoCode.py
 ```command
 run Control_With_Distance.py
 ```
-3- control by aruco code ,distance and ultrasoinc
+3- control by aruco code ,distance and ultrasonic
 ```command
 run dis_and_ultra.py
 ```
